@@ -1,0 +1,19 @@
+{
+  "name": "MoreScreen",
+  "namespace": "otDan",
+  "version_number": "1.0.0",
+  "description": "Hate the black bars? This allows for more screen resolutions without them",
+  "website_url": "https://github.com/otDan/Brotato-MoreScreen",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "incompatibilities": [
+        "KANA-MultiRes"
+      ],
+      "authors": ["otDan"],
+      "compatible_mod_loader_version": "4.0.0",
+      "compatible_game_version": ["0.8.0.3"],
+      "config_defaults": {}
+    }
+  }
+}

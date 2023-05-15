@@ -1,37 +1,37 @@
-<img align="right" src="https://github.com/otDan/Brotato-ItemExplorer/blob/master/.publish/icon-full.png?raw=true" height="160" hspace="20"/>
+<img align="right" src="https://github.com/otDan/Brotato-MoreScreen/blob/master/.publish/icon-full.png?raw=true" height="160" hspace="20"/>
 
-# ItemExplorer for [Brotato](https://store.steampowered.com/app/1942280/Brotato/)
+# MoreScreen for [Brotato](https://store.steampowered.com/app/1942280/Brotato/)
 
-Adds a menu to show and manage items
+Allows for more screen resolutions without the black bars
 - Built for the [GodotModLoader](https://github.com/GodotModding/godot-mod-loader)
 
 ## Showcase
 <p align="center"> 
-    <img src="https://github.com/otDan/Brotato-ItemExplorer/blob/master/.publish/showcase.png?raw=true" height="350" style="object-fit:scale-down;"/>
+    <img src="https://github.com/otDan/Brotato-MoreScreen/blob/master/.publish/showcase.png?raw=true" height="350" style="object-fit:scale-down;"/>
 </p>
 
 ## Installation
 
-<!-- <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646">
-    <img align="right" src="https://badgen.net/https/git-hub-badge-data.npkn.net/thunderstore-downloads-request/GameSaver?icon=https://gcdn.thunderstore.io/static/ts/thunderstore-logomark-white.svg" hspace="50"/>
-</a> -->
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2954859575">
+    <img align="right" src="https://badgen.net/https/ostaszewski29.npkn.net/py-steam-subscribers-request/2954859575?icon=https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" hspace="50"/>
+</a>
 
 - Steam Workshop: 
-  - https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646 
+  - https://steamcommunity.com/sharedfiles/filedetails/?id=2954859575 
 
-<a href="https://thunderstore.io/c/brotato/p/otDan/ItemExplorer/">
-    <img align="right" src="https://badgen.net/https/git-hub-badge-data.npkn.net/thunderstore-downloads-request/brotato/ItemExplorer?icon=https://gcdn.thunderstore.io/static/ts/thunderstore-logomark-white.svg" hspace="50"/>
+<a href="https://thunderstore.io/c/brotato/p/otDan/MoreScreen/">
+    <img align="right" src="https://badgen.net/https/git-hub-badge-data.npkn.net/thunderstore-downloads-request/brotato/MoreScreen?icon=https://gcdn.thunderstore.io/static/ts/thunderstore-logomark-black.svg" hspace="50"/>
 </a>
 
 - Thunderstore: 
-  - https://thunderstore.io/c/brotato/p/otDan/ItemExplorer/
+  - https://thunderstore.io/c/brotato/p/otDan/MoreScreen/
 
-<a href="https://github.com/otDan/Brotato-ItemExplorer/releases">
-    <img align="right" src="https://badgen.net/github/assets-dl/otDan/Brotato-ItemExplorer?icon=git&color=blue" hspace="50"/>
+<a href="https://github.com/otDan/Brotato-MoreScreen/releases">
+    <img align="right" src="https://badgen.net/github/assets-dl/otDan/Brotato-MoreScreen?icon=git&color=blue" hspace="50"/>
 </a> 
 
 - Manual: 
-  - https://github.com/otDan/Brotato-ItemExplorer/releases
+  - https://github.com/otDan/Brotato-MoreScreen/releases
 
 <p align="left"> 
     <a href="https://www.paypal.com/paypalme/otdan">
